@@ -718,9 +718,9 @@ HomeScreen As screen:
         Color: =RGBA(255, 255, 255, 1)
         Height: =45
         Size: =30
-        Text: ="Modif 2"
+        Text: ="Modif 3"
         Width: =204
-        X: =466
+        X: =483
         Y: =36
         ZIndex: =31
 
