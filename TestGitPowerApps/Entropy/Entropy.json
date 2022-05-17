@@ -49,6 +49,7 @@
     "Label4_6": 74,
     "Label4_7": 53,
     "Label4_8": 29,
+    "Label5": 87,
     "Label7": 38,
     "ListGallery": 32,
     "OrderQuantityText": 57,
@@ -88,7 +89,7 @@
     "TotalAmountText": 62
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "05/17/2022 20:53:00",
+  "HeaderLastSavedDateTimeUTC": "05/17/2022 20:53:42",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -145,11 +146,11 @@
     "button": 6,
     "gallery": 7,
     "icon": 5,
-    "image": 2,
-    "label": 4,
+    "image": 3,
+    "label": 1,
     "rectangle": 0,
-    "text": 3,
-    "timer": 1
+    "text": 4,
+    "timer": 2
   },
   "PublishOrderIndices": {
     "AllRectangle": 9,
@@ -200,6 +201,7 @@
     "Label4_6": 67,
     "Label4_7": 49,
     "Label4_8": 28,
+    "Label5": 0,
     "Label7": 37,
     "ListGallery": 31,
     "OrderQuantityText": 53,
